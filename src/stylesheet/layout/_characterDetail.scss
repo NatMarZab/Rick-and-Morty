@@ -1,0 +1,24 @@
+.characterArticle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  width: 600px;
+}
+.link {
+  text-align: right;
+  color: cornsilk;
+}
+.stylesDetail {
+  display: flex;
+  background-color: cadetblue;
+}
+.characterImage {
+  padding: 20px;
+}
+.textInfo {
+  flex-direction: column;
+  align-items: center;
+  text-align: left;
+  margin-top: 70px;
+}
